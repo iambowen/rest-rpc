@@ -1,6 +1,8 @@
 rest-rpc
 ========
 
+rest-rpc is a framework that allows defining REST API in a RPC-like interface, and generates proxy and stub code for them.
+
 Design
 ------
 

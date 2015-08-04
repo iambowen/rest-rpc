@@ -1,15 +1,3 @@
-[submodule "rest-rpc-sample"]
-	path = rest-rpc-sample
-	url = git@github.com:new-cbs/rest-rpc-sample.git
-[submodule "rest-rpc-play"]
-	path = rest-rpc-play
-	url = git@github.com:new-cbs/rest-rpc-play.git
-[submodule "rest-rpc-core"]
-	path = rest-rpc-core
-	url = git@github.com:new-cbs/rest-rpc-core.git
-[submodule "sbt-rest-rpc"]
-	path = sbt-rest-rpc
-	url = git@github.com:new-cbs/sbt-rest-rpc.git
 [submodule "project/rest-rpc-sample"]
 	path = project/rest-rpc-sample
 	url = git@github.com:new-cbs/rest-rpc-sample.git

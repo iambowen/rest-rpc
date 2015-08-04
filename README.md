@@ -52,4 +52,5 @@ Required knowledge
 -	https://git-scm.com/book/en/v2/Git-Tools-Submodules
 -	http://www.scala-sbt.org/0.13/tutorial/Multi-Project.html
 -	http://www.scala-sbt.org/0.13/docs/Plugins.html
+-	http://www.scala-sbt.org/0.13/tutorial/Organizing-Build.html
 -	https://github.com/qifun/sbt-haxe
